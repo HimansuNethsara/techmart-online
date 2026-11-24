@@ -99,4 +99,4 @@ The database (`techmart_online`) utilizes JPA entities with the following core r
 **Himansu Nethsara Ranasinghe**
 - 🎓 BSc (Hons) Software Engineering Undergraduate (JIAT / BCU)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/himansu-nethsara/)
-- 🐙 [GitHub](https://github.com/HimansuNethsara)
+- 🐙 [GitHub](https://github.com/HimansuNethsara)    
