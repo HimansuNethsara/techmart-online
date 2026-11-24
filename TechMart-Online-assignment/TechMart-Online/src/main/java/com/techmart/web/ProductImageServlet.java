@@ -13,7 +13,7 @@ import java.nio.file.Files;
 public class ProductImageServlet extends HttpServlet {
 
     private static final String IMAGE_FOLDER =
-            "J:/java intellij practicals/BCD/practicals/TechMart-Online-assignment/images/products";
+            "J:/java intellij practicals/BCD/BCD I Practicals/TechMart-Online-assignment/images/products";
 
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp)
